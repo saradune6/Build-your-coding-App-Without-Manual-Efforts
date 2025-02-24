@@ -108,7 +108,7 @@ export GOOGLE_API_KEY=<YOUR_GOOGLE_API_KEY>
 
 ### Step 5: Run the FastAPI Server
 ```sh
-uvicorn agent:app --host 0.0.0.0 --port 8000 --reload
+uvicorn agent:app --host 0.0.0.0 --port 8888 --reload
 ```
 
 ---
